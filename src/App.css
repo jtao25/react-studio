@@ -1,9 +1,12 @@
 /* Add styling for your page here */
-
 .App {
+    padding: 2rem 6rem;
+  }
 
-}
 
-.BakeryItem {
-  
-}
+.row-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 2rem;
+  }

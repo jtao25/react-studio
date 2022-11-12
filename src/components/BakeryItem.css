@@ -1,0 +1,13 @@
+
+.item {
+    width: 15rem;
+    margin: 1rem;
+    padding: 2rem;
+    background-color: rgb(247, 230, 206);
+  }
+  
+img {
+    object-fit: contain;
+    width: 100%;
+}
+  
